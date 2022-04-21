@@ -14,4 +14,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # NPM으로 실행했음 !
 
-Social network Feed 컨셉
+- Social network Feed 컨셉
+
+  22.04.21 리덕스 에센셜 redux 데이터 사용까지. 비동기 논리 및 데이터 가져오기 들어갈 차례.
